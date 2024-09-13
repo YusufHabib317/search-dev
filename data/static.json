@@ -1,0 +1,116 @@
+{
+   "data": [
+      {
+         "resource": "Next.js Documentation",
+         "slug": "next-13-introduction",
+         "views": "1500",
+         "image": "/data-static/nextjs.png",
+         "category": "Next 13",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "React for Beginners",
+         "slug": "react-beginners-guide",
+         "views": "2200",
+         "image": "/data-static/react.png",
+         "category": "frontend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Node.js Best Practices",
+         "slug": "nodejs-best-practices",
+         "views": "3500",
+         "image": "/data-static/nodejs.png",
+         "category": "backend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Fullstack Project Setup",
+         "slug": "fullstack-setup",
+         "views": "1400",
+         "image": "/data-static/fullsatck.png",
+         "category": "fullstack",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "CSS Grid and Flexbox",
+         "slug": "css-grid-flexbox",
+         "views": "1600",
+         "image": "/data-static/css-flex-grid.png",
+         "category": "frontend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "REST API with Express",
+         "slug": "rest-api-express",
+         "views": "1900",
+         "image": "/data-static/api.png",
+         "category": "backend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Getting Started with Next 13",
+         "slug": "next-13-getting-started",
+         "views": "2800",
+         "image": "/data-static/nextjs.png",
+         "category": "Next 13",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Advanced React Patterns",
+         "slug": "advanced-react-patterns",
+         "views": "2100",
+         "image": "/data-static/react-pattern.png",
+         "category": "frontend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Building Fullstack Apps with Next.js",
+         "slug": "fullstack-nextjs-app",
+         "views": "2400",
+         "image": "/data-static/Building Fullstack Apps with Next.js.png",
+         "category": "fullstack",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Database Management for Backends",
+         "slug": "database-management-backend",
+         "views": "3100",
+         "image": "/data-static/Database Management for Backends.png",
+         "category": "backend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Best Frontend Libraries in 2024",
+         "slug": "best-frontend-libraries-2024",
+         "views": "1700",
+         "image": "/data-static/Best Frontend Libraries in 2024.png",
+         "category": "frontend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Next 13 Routing Guide",
+         "slug": "next-13-routing-guide",
+         "views": "2000",
+         "image": "/data-static/nextjs.png",
+         "category": "Next 13",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Backend Security Best Practices",
+         "slug": "backend-security-practices",
+         "views": "2500",
+         "image": "/data-static/Backend Security Best Practices.png",
+         "category": "backend",
+         "downloadLink": "/"
+      },
+      {
+         "resource": "Fullstack with MERN Stack",
+         "slug": "fullstack-mern-stack",
+         "views": "1800",
+         "image": "/public/data-static/Fullstack with MERN Stack.png",
+         "category": "fullstack",
+         "downloadLink": "/"
+      }
+   ]
+}
