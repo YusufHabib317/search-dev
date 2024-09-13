@@ -17,6 +17,7 @@ export default async function Home(props: Props) {
     page: '1',
   });
 
+
   return (
     <main className="flex-center paddings mx-auto w-full max-w-screen-2xl flex-col">
       <section className="nav-padding w-full">
